@@ -307,7 +307,7 @@
             $('#' + subs[i] + '-checkbox').prop('checked', true);
           }
         }
-        // store.set('https://jncsw.github.io/se-deadlines', subs);
+        store.set('https://jncsw.github.io/se-deadlines', subs);
         // window.history.pushState('', '', '/?sub=' + subs.join());
 
         // Event handler on checkbox change
@@ -331,7 +331,7 @@
             }
           }
           console.log(subs);
-          // store.set('https://jncsw.github.io/se-deadlines', subs);
+          store.set('https://jncsw.github.io/se-deadlines', subs);
           // window.history.pushState('', '', '/se-deadlines/?sub=' + subs.join());
         });
 
