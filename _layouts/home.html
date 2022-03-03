@@ -308,7 +308,7 @@
           }
         }
         store.set('{{ site.domain }}', subs);
-        window.history.pushState('', '', 'se-deadlines/?sub=' + subs.join());
+        window.history.pushState('', '', '/?sub=' + subs.join());
 
         // Event handler on checkbox change
         $('form :checkbox').change(function(e) {
@@ -332,7 +332,7 @@
           }
           console.log(subs);
           store.set('{{ site.domain }}', subs);
-          window.history.pushState('', '', 'se-deadlines/?sub=' + subs.join());
+          window.history.pushState('', '', '/?sub=' + subs.join());
         });
 
         // Event handler on sub click
