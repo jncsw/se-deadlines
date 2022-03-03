@@ -3,7 +3,7 @@ description: Countdowns to selected SE conference deadlines
 author: jncsw
 
 domain: "https://github.com/jncsw/se-deadlines/"
-baseurl: "/se-deadlines/"
+baseurl: /se-deadlines
 
 #twitter_hashtag: software_engineering
 github_username: jncsw
