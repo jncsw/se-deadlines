@@ -13,3 +13,5 @@
   sub: SP
 - name: Data Mining
   sub: DM
+- name: Software Engineering
+  sub: SE
