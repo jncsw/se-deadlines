@@ -1,5 +1,171 @@
 ---
 
+- title: ODSI
+  hindex: 46
+  year: 2023
+  id: osdi2023
+  link: https://www.usenix.org/conferences/byname/179
+  deadline: 'TBD'
+  timezone: Etc/GMT-12
+  date: July 10, 2023–July 12, 2023
+  place: Boston, MA, United States
+  sub: SE
+  note: USENIX Symposium on Operating Systems Design and Implementation
+
+
+
+- title: ODSI
+  hindex: 46
+  year: 2022
+  id: osdi2022
+  link: https://www.usenix.org/conference/osdi22
+  deadline: '2021-12-07 23:59:59'
+  timezone: Etc/GMT-12
+  date: JULY 11–13, 2022
+  place: CARLSBAD, CA, USA
+  sub: SE
+  note: USENIX Symposium on Operating Systems Design and Implementation
+
+
+- title: ICSE
+  hindex: 46
+  year: 2023
+  id: icse2023
+  link: https://conf.researchr.org/home/icse-2023
+  deadline: '2022-09-01 23:59:59'
+  timezone: Etc/GMT-12
+  date: May 14-20 Melbourne Convention and Exhibition Centre (MCEC), Australia
+  place: Pittsburgh, PA, USA
+  sub: SE
+  note: International Conference on Software Engineering
+
+
+- title: ICSE
+  hindex: 46
+  year: 2022
+  id: icse2022
+  link: https://conf.researchr.org/home/icse-2022
+  deadline: '2021-09-03 23:59:59'
+  timezone: Etc/GMT-12
+  date: May 8-20 Virutal, May 22-27 In person, 2022
+  place: Pittsburgh, PA, USA
+  sub: SE
+  note: International Conference on Software Engineering
+
+- title: EASE
+  hindex: 46
+  year: 2022
+  id: ease2022
+  link: https://2022.esec-fse.org/
+  deadline: '2022-01-31 23:59:59'
+  timezone: Etc/GMT-12
+  date: Mon 13 - Wed 15 June 2022
+  place: Göteborg, Sweden
+  sub: SE
+  note: The International Conference on Evaluation and Assessment in Software Engineering
+
+
+
+- title: ASE
+  hindex: 46
+  year: 2022
+  id: ase2022
+  link: https://2022.esec-fse.org/
+  deadline: '2022-04-29 23:59:59'
+  timezone: Etc/GMT-12
+  date: Mon 10 - Fri 14 October 2022
+  place: Ann Arbor, Michigan, United States
+  sub: SE
+  note: International Conference on Automated Software Engineering.
+
+
+- title: ESEC/FSE
+  hindex: 46
+  year: 2022
+  id: fse2022
+  link: https://2022.esec-fse.org/
+  deadline: '2022-03-10 23:59:59'
+  timezone: Etc/GMT-12
+  date: Mon 14 - Fri 18 November 2022
+  place: Singapore
+  sub: SE
+  note: The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 
+
+
+- title: ASPLOS
+  hindex: 46
+  year: 2022
+  id: asplos22
+  link: https://asplos-conference.org/
+  deadline: '2022-01-17 23:59:59'
+  timezone: Etc/GMT-12
+  date: Feb 28- Mar 4, 2022
+  place: Lausanne, Switzerland 
+  sub: PL
+  note: International Conference on Architectural Support for Programming Languages and Operating Systems
+
+
+- title: ECOOP
+  hindex: 46
+  year: 2022
+  id: ecoop22
+  link: https://pldi22.sigplan.org/
+  deadline: '2021-12-01 23:59:59'
+  timezone: Etc/GMT-12
+  date: June 6-10, 2022
+  place: Berlin, Germany
+  sub: PL
+  note: European Conference on Object-Oriented Programming
+
+
+- title: OOPSLA
+  hindex: 45
+  year: 2022
+  id: oopsla2022
+  link: https://2022.splashcon.org/track/splash-2022-oopsla
+  deadline: '2022-04-15 23:59:59'
+  timezone: Etc/GMT-12
+  date: December 5-10, 2022
+  place: Auckland, New Zealand
+  sub: SE
+  note: The annual Symposium on Principles of Programming Languages 
+
+
+- title: POPL
+  hindex: 45
+  year: 2023
+  id: popl2023
+  link: https://conf.researchr.org/home/POPL-2023
+  deadline: '2021-07-07 23:59:59'
+  timezone: Etc/GMT-12
+  date: January 15-21, 2023
+  place: TBD
+  sub: PL
+  note: The annual Symposium on Principles of Programming Languages 
+
+- title: POPL
+  hindex: 45
+  year: 2022
+  id: popl2022
+  link: https://popl22.sigplan.org/
+  deadline: '2021-07-08 23:59:59'
+  timezone: Etc/GMT-12
+  date: January 16-28, 2021
+  place: Philadelphia, Pennsylvania, United States
+  sub: PL
+
+- title: PLDI
+  hindex: 46
+  year: 2022
+  id: pldi22
+  link: https://pldi22.sigplan.org/
+  deadline: '2021-11-19 23:59:59'
+  timezone: Etc/GMT-12
+  date: June 13-17, 2022
+  place: Virtual
+  sub: PL
+  note: Programming Language Design and Implementation (PLDI)
+
 - title: PLDI
   hindex: 46
   year: 2021
@@ -10,6 +176,19 @@
   date: June 20-25, 2021
   place: Virtual
   sub: PL
+
+
+- title: ISSTA
+  hindex:
+  year: 2022
+  id: issta2022
+  link: https://conf.researchr.org/track/issta-2022/issta-2022-technical-papers#Call-for-Papers
+  deadline: '2022-01-28 23:59:59'
+  timezone: Etc/GMT-12
+  date: July 18-22, 2022
+  place: Online
+  sub: SE
+
 
 - title: ISSTA
   hindex:
