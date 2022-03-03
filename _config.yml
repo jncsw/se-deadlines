@@ -1,17 +1,15 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: SE Conference Deadlines
+description: Countdowns to top SE conference deadlines
+author: jncsw
 
-domain: "aideadlin.es"
+domain: "jncsw.github.io"
 baseurl: ""
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+twitter_hashtag: software_engineering
+github_username: jncsw
+github_repo: se-deadlines
 
 markdown: kramdown
 ga_id:
 
 include: ['_pages']
-
-theme: jekyll-theme-slate
