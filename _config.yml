@@ -14,4 +14,4 @@ ga_id:
 
 include: ['_pages']
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
