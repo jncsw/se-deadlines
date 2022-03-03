@@ -280,7 +280,7 @@
         var url = new URL(window.location);
         var subs = url.searchParams.get('sub');
         if (subs == undefined) {
-           subs = store.get('{{ site.domain }}');
+           subs = store.get('https://jncsw.github.io/se-deadlines');
         } else {
            subs = subs.toUpperCase().split(',');
         }
@@ -307,7 +307,7 @@
             $('#' + subs[i] + '-checkbox').prop('checked', true);
           }
         }
-        store.set('{{ site.domain }}', subs);
+        store.set('https://jncsw.github.io/se-deadlines', subs);
         window.history.pushState('', '', '/?sub=' + subs.join());
 
         // Event handler on checkbox change
@@ -331,7 +331,7 @@
             }
           }
           console.log(subs);
-          store.set('{{ site.domain }}', subs);
+          store.set('https://jncsw.github.io/se-deadlines', subs);
           window.history.pushState('', '', '/?sub=' + subs.join());
         });
 
@@ -348,7 +348,7 @@
           $('.' + csub + '-conf').show();
           subs = [csub];
           console.log(subs);
-          store.set('{{ site.domain }}', subs);
+          store.set('https://jncsw.github.io/se-deadlines', subs);
           window.history.pushState('', '', 'se-deadlines/?sub=' + subs.join());
         });
     });
