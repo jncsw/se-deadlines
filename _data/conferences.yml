@@ -1,6 +1,6 @@
 ---
 
-- title: OSDI
+- title: ODSI
   hindex: 46
   year: 2023
   id: osdi2023
@@ -14,7 +14,7 @@
 
 
 
-- title: OSDI
+- title: ODSI
   hindex: 46
   year: 2022
   id: osdi2022
@@ -70,7 +70,7 @@
   hindex: 46
   year: 2022
   id: ase2022
-  link: https://2022.esec-fse.org/
+  link: https://conf.researchr.org/home/ase-2022
   deadline: '2022-04-29 23:59:59'
   timezone: Etc/GMT-12
   date: Mon 10 - Fri 14 October 2022
@@ -127,7 +127,7 @@
   timezone: Etc/GMT-12
   date: December 5-10, 2022
   place: Auckland, New Zealand
-  sub: SE
+  sub: PL
   note: The annual Symposium on Principles of Programming Languages 
 
 
