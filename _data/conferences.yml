@@ -12,6 +12,18 @@
   sub: SE
   note: USENIX Symposium on Operating Systems Design and Implementation
 
+- title: CCS
+  hindex: 46
+  year: 2022
+  id: ccs2022
+  link: https://www.sigsac.org/ccs/CCS2022/
+  deadline: '2022-05-01 23:59:59'
+  timezone: Etc/GMT-12
+  date: November 7-11, 2022
+  place: Los Angeles, U.S.A.
+  sub: SC
+  note: ACM Conference on Computer and Communications Security (CCS)
+
 
 
 - title: ODSI
